@@ -6,4 +6,4 @@ O código referente ao trabalho consta no arquivo `main.ipynb`. Para além disto
 
 ## Informações do aluno
 
-- Matheus Teixeira - up202110548 - matheus.b.teixeira@pm.me
+- Matheus Teixeira - up202110548 - matheus.b.teixeira@protonmail.com
